@@ -1,0 +1,12 @@
+
+(Note)
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+I didn't include the .ini file in the source code's
+folder because WinZip doesn't let me include two
+files with the same name in the same archive (even
+if they're in separate folders). So, when you try
+running QuickMenu from the source code, no
+shortcuts will appear (because there's no .ini file
+with them). This can be easily solved by copying
+QuickMenu.ini from the main folder to the source
+code folder.

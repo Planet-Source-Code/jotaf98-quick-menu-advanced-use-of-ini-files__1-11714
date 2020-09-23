@@ -1,0 +1,11 @@
+
+(Note)
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+By including "QM:\" (without the "quotes") before
+a shortcut's command, that shortcut will be
+executed as if it was in the QuickMenu\Shortcuts
+folder.
+
+  []  Example: QM:\Windows_Explorer.scf would refer
+	to the file Windows_Explorer.scf in the
+	QuickMenu\Shortcuts folder.
